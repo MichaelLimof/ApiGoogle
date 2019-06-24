@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: agendaSpring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MichaelLimadeOliveir
+Implementation-Vendor-Id: oreillyStudy
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/StudyOreilly
+Created-By: Maven Integration for Eclipse
+
